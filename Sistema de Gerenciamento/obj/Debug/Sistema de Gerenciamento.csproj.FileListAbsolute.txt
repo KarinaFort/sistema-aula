@@ -1,0 +1,50 @@
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Sistema de Gerenciamento.exe.config
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Sistema de Gerenciamento.exe
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Sistema de Gerenciamento.pdb
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.csproj.AssemblyReference.cache
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.TelaInicial.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.Properties.Resources.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.csproj.GenerateResource.cache
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.exe
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.pdb
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.cadastroDeClientes.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.cadastroDeProdutos.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.pesquisa.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.cadastroDeFuncionarios.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.vendas.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.Resources.cadastro.pesquisaDeClientes.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.Resources.cadastro.pesquisaDeFuncionarios.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.Resources.cadastro.pesquisaDeProdutos.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema_de_Gerenciamento.Resources.cadastro.abrirRelatorios.resources
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Npgsql.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Buffers.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Memory.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Text.Json.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Threading.Channels.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.ValueTuple.dll
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\Npgsql.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Buffers.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Memory.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Text.Json.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Threading.Channels.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\bin\Debug\System.ValueTuple.xml
+C:\Users\Karina Forte\Documents\Projeto\Sistema de Gerenciamento\obj\Debug\Sistema de Gerenciamento.csproj.CopyComplete
